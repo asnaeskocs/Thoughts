@@ -7,5 +7,5 @@ export default defineConfig({
   optimizeDeps: {
     exclude: ['lucide-react'],
   },
-  base: '/article-publishing-platform/', // Set the base URL for GitHub Pages
+  base: '/thoughts/', // Set the base URL for GitHub Pages
 });
